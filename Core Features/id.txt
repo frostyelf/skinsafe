@@ -1,0 +1,27 @@
+{
+    "email": {
+        "device_id": "",
+        "account_id": "",
+        "secret": ""
+    },
+    "email": {
+        "device_id": "",
+        "account_id": "",
+        "secret": ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"gifting": "never"
+    }
+}
